@@ -1,0 +1,19 @@
+test liyazhouliyazhoumain status thread 0 : NEW
+main status thread 1 : NEW
+main status thread 2 : NEW
+Id: 10 Name: Thread:0Priority: 10Old stateNew state*************************
+
+Id: 11 Name: Thread:1Priority: 1Old stateNew state*************************
+
+Id: 12 Name: Thread:2Priority: 10Old stateNew state*************************
+
+Id: 10 Name: Thread:0Priority: 10Old stateNew state*************************
+
+Id: 12 Name: Thread:2Priority: 10Old stateNew state*************************
+
+Id: 11 Name: Thread:1Priority: 1Old stateNew state*************************
+
+Id: 12 Name: Thread:2Priority: 10Old stateNew state*************************
+
+Id: 11 Name: Thread:1Priority: 1Old stateNew state*************************
+
